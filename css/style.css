@@ -35,7 +35,8 @@ img{
   /* make the image 300px wide and 220px high, 10px of padding, and a 3px dashed border in the color of your choice */
  padding: 10px;
  border: 3px dashed rgb(255, 142, 212);
-
+ width: 300px;
+ height: 220px;
 }
 footer{
   /* style the footer so it has a black background and white text */
